@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Hepta+Slab&display=swap');
+
+h1{
+    font-family: 'Bungee Inline', cursive;
+    font-weight: 300;
+    margin-bottom: 20px !important;
+}
+
+.intro {
+    font-family: 'Hepta Slab', serif;
+    font-weight: 300;
+}
