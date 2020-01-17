@@ -16,7 +16,10 @@ npm install
 npm start
 ```
 The website is ready to go! <br />
-Improve the current version if you'd like. 
+
+Want to improve the current version of RoboFriends? Got some ideas? 
+
+Lets develop it together! Contact me at mindutkarsh@gmail.com
 
 ## Tools Used :briefcase:
 
