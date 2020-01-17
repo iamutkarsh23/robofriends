@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 The website is ready to go! <br />
-DImprove the current version if you'd like. 
+Improve the current version if you'd like. 
 
 ## Tools Used :briefcase:
 
